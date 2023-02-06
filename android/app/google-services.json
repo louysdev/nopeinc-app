@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1040063425518",
+    "project_id": "deliveryapp-proyecto-d4036",
+    "storage_bucket": "deliveryapp-proyecto-d4036.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040063425518:android:8aadf2eada18e9d792fcff",
+        "android_client_info": {
+          "package_name": "com.juanito.nopeinc_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040063425518-o6q3tc64fpdh1jel7a7ilio9oh6he22g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.juanito.nopeinc_app",
+            "certificate_hash": "a2dc09eed22c3da6b6119fa223bd6111679a296a"
+          }
+        },
+        {
+          "client_id": "1040063425518-01ihdbfgka460afiauga51iub0q5g9mv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH4-3suDv5V9Jum8Q92qMDcxBusADJrGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040063425518-01ihdbfgka460afiauga51iub0q5g9mv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
