@@ -1,6 +1,4 @@
-# nopeinc_app
-
-Aplicacion para proyecto final:
+# Aplicacion para proyecto final:
 
 Codigo de la aplicacion.
 
