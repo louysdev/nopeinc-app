@@ -1,4 +1,4 @@
-# Aplicacion para proyecto final:
+# NopeINC App
 
 Codigo de la aplicacion.
 
